@@ -37,7 +37,7 @@ class Footer extends React.Component {
         <Row>
           <Col>
             <p className="text-center text-nowrap pt-3">
-              &copy; 2022 MyCompany, Inc
+              &copy; 2023 Blog Spot - NanMudhalvan - LICET, Inc
             </p>
           </Col>
         </Row>
